@@ -1,9 +1,9 @@
 {
-  "name": "ngrx-undo",
-  "version": "8.0.0",
+  "name": "ngrx-undo-v2",
+  "version": "13.2.0",
   "description": "Undo support for @ngrx/store",
   "license": "MIT",
-  "repository": "brechtbilliet/ngrx-undo",
+  "repository": "pilz97/ngrx-undo-v2",
   "author": {
     "name": "Brecht Billiet",
     "email": "billietbrecht@gmail.com",
